@@ -173,15 +173,15 @@ Python • Deep Learning • Computer Vision
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats & Summary
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eshan-devadhara&show_icons=true&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshan-devadhara&theme=github_dark)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-devadhara&layout=compact&theme=tokyonight"/>
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshan-devadhara&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshan-devadhara&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshan-devadhara&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshan-devadhara&theme=github_dark)
 
 ---
 
