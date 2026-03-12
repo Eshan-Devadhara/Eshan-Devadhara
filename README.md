@@ -175,13 +175,13 @@ Python • Deep Learning • Computer Vision
 
 ## 📊 GitHub Stats & Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshan-devadhara&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshan-devadhara&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshan-devadhara&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshan-devadhara&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eshan-devadhara&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eshan-devadhara&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshan-devadhara&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshan-devadhara&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eshan-devadhara&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=eshan-devadhara&theme=tokyonight)
 
 ---
 
